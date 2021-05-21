@@ -1,89 +1,54 @@
 
-/othneildrew/Best-README-Template/raw/master/images/logo.png
+*Logo*
+
+
 
 #Money Control#
+Aplicação "Money-Control" com NodeJS | Typescript | TypeORM | ReactJS
 
-Table of Contents
-About The Project
-Built With
-Getting Started
-Prerequisites
-Installation
-Usage
-Roadmap
-Contributing
-License
-Contact
-Acknowledgements
-About The Project
-Product Name Screen Shot
+Instalação
+# Baixar o repositório
+git clone https://github.com/demoiselle/example.git --depth=1
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Backend - NodeJS
+# Acessar a pasta "backend"
+cd 
 
-Here's why:
+# Instalar dependências
+npm i
 
-Your time should be focused on creating something amazing. A project that solves a problem and helps others
-You shouldn't be doing the same tasks over and over like creating a README from scratch
-You should element DRY principles to the rest of your life 😄
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+# Iniciar a aplicação (backend)
+npm run dev
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+# Acesse: http://localhost:3333/
 
-Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Frontend - ReactJS
 
-Bootstrap
-JQuery
-Laravel
-Getting Started
-This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
+# Acessar a pasta "frontend"
+cd
 
-Prerequisites
-This is an example of how to list things you need to use the software and how to install them.
+# Instalar dependências
+npm i
 
-npm
-npm install npm@latest -g
-Installation
-Get a free API Key at https://example.com
-Clone the repo
-git clone https://github.com/your_username_/Project-Name.git
-Install NPM packages
-npm install
-Enter your API in config.js
-const API_KEY = 'ENTER YOUR API';
-Usage
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+# Iniciar a aplicação (frontend)
+npm start
 
-For more examples, please refer to the Documentation
+# Acesse: http://localhost:3000/
 
-Roadmap
-See the open issues for a list of proposed features (and known issues).
 
-Contributing
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
+Mobile - React Native
+# Acessar a pasta "mobile"
+cd
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-License
-Distributed under the MIT License. See LICENSE for more information.
+# Instalar dependências
+npm i
+
+# Iniciar a aplicação (mobile)
+npm start
+
+# Acesse: http://localhost:?/
 
 Contact
-Your Name - @your_twitter - email@example.com
+Leonardo Reis Melo - @meeloleo - leonardoreismeelo@outlook.com
 
 Project Link: https://github.com/your_username/repo_name
-
-Acknowledgements
-GitHub Emoji Cheat Sheet
-Img Shields
-Choose an Open Source License
-GitHub Pages
-Animate.css
-Loaders.css
-Slick Carousel
-Smooth Scroll
-Sticky Kit
-JVectorMap
-Font Awesome
